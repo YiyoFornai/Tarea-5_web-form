@@ -1,0 +1,87 @@
+
+#campos {
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+    float: left;
+    
+}
+button:hover {
+    background:blueviolet;
+    font-weight: bold;
+    border: 2px solid black;
+    color: #fff;    
+}
+
+#logo {
+    float: left; 
+    padding-left: 15px;
+}
+
+div {
+    float: left;
+    padding-bottom: 35px;
+    
+}
+
+fieldset {
+    clear: left;
+}
+
+body {
+    background:url('papel.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+legend {
+    font-weight: bold;
+}
+
+
+#tblDatos {
+    border: solid 1px black;
+    width: 100%;
+    /* display: grid; */
+}
+
+#tblDatos thead {
+    background:black;
+    color: #ccc;
+    
+}
+
+#tblDatos td {
+    text-align: center;
+    border: 1px solid black;
+        
+}
+
+
+#fDatos th {
+    color: blue;
+    text-align: left;  
+    
+}
+
+#fDatos td input {
+    background-color: #AFFDAC;
+    text-align: left;       
+}
+
+tbody #tbDatos  {
+    border: 1px solid black;
+}
+
+/* @media screen and (max-width: 1000px) { 
+
+img { display: none; }  
+
+} */
+
+
+
